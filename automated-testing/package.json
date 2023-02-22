@@ -1,0 +1,15 @@
+{
+  "type": "commonjs",
+  "name": "automated-testing",
+  "version": "1.0.0",
+  "description": "first automated unit testing",
+  "main": "bmi_calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.3"
+  }
+}
